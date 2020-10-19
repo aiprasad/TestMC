@@ -8,28 +8,36 @@
 # MENU ITEM: EXPLORATIVE COMMUNICATION THERAPY
 # PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
 
-## Have you ever thought about becoming a voice actor? 
+## Have you ever thought about becoming a voice actor?
 
 ## Have you ever dreamed about one day seeing your face in video games, cartoons, film and television?
 
-### If so, then you've come to the right place. In a quarantined world, content is king. Therefore, we believe that teaching our communities how to become EXPERT COMMUNICATORS can be both therapeutically and economically uplifting.
-
-Therefore, for a limited time only, ConnexMatch will be offering intimate, small group classes with none other than Christian Potenza himself.
+For a limited time only, ConnexMatch will be offering intimate, small group classes with none other than [Christian Potenza](https://youtu.be/WmtTnG1B2Qg) himself.
 
 Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in the Total Drama (Comedy Network) franchise.
 
-#### Topics Included: 
+[!(https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg)]
+
+#### Duration: 
+
+- Four weeks
+
+#### Start Date: 
+
+- Saturday, November 7th 2020 - December 7th 2020
+
+#### Curriculum Overview: 
 - FIVE FINGERS OF SELF-DIRECTION
 - COMMUNICATION TRIANGLE
 - CHARACTER CROSS
 - TONE DIAMOND
 - MONOLOGUE MASTERY
+- AUDITION MASTERY
 - SLATING
 
-# Thinking about experiencing a LIVE session with Christian himself? [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
+# [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
 
-Spaces are limited.
 
-sign up form here
+**sign up form here
 
 </html>
