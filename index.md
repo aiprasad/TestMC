@@ -3,22 +3,26 @@
 
 <body>
 
-<img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
+<IMG SRC = "https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/117431201_815762092291324_5216919526080403592_n.jpg">
 
 # MENU ITEM: EXPLORATIVE COMMUNICATION THERAPY
-# PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
+# PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY
+## PAGE SUB-TITLE: THROUGH DIGITAL MEDIA ARTS
 
 # Have you ever thought about becoming a voice actor?
 
 ## Have you ever dreamed about one day seeing your face in video games, cartoons, film and television?
 
-For a limited time only, ConnexMatch will be offering intimate, small group classes with none other than [Christian Potenza](https://youtu.be/WmtTnG1B2Qg) himself.
+### For a limited time only, ConnexMatch will be offering intimate, small group classes with none other than [Christian Potenza](https://youtu.be/WmtTnG1B2Qg) himself.
 
-Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
+<img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
+
+### Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
 
 <img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
 
-# Tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
+
+# TAKE A TOUR OF THE STUDIO
 
 [![ConnexMatch x The Infinity Forge Experience](http://img.youtube.com/vi/SejB4Ortfwg/0.jpg)](http://www.youtube.com/watch?v=SejB4Ortfwg "ConnexMatch x The Infinity Forge Experience")
 
