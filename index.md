@@ -3,12 +3,12 @@
 
 <body>
 <img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
-</body>
+
 
 # MENU ITEM: EXPLORATIVE COMMUNICATION THERAPY
 # PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
 
-## Have you ever thought about becoming a voice actor?
+# Have you ever thought about becoming a voice actor?
 
 ## Have you ever dreamed about one day seeing your face in video games, cartoons, film and television?
 
@@ -18,7 +18,7 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 
 <img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
 
-## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
+## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS (Four Weeks, 90 minutes per week)
 
 Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.
 
@@ -98,5 +98,5 @@ The Four Directions of the Tone Dimaond are:
 # [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
 
 **sign up form here
-
+</BODY>
 </html>
