@@ -31,7 +31,7 @@ THROUGH DIGITAL MEDIA ARTS
 
 # TAKE A TOUR OF THE STUDIO
 
-[![ConnexMatch x The Infinity Forge Experience](http://img.youtube.com/vi/SejB4Ortfwg/0.jpg)](http://www.youtube.com/watch?v=SejB4Ortfwg "ConnexMatch x The Infinity Forge Experience")
+[![ConnexMatch x The Infinity Forge Experience](https://i.imgur.com/QgfM4ZV.jpg)](http://www.youtube.com/watch?v=SejB4Ortfwg "ConnexMatch x The Infinity Forge Experience")
 
 
 ## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
