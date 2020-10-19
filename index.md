@@ -56,6 +56,10 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 - Four weeks, 90-minutes per week
 
 
+### COST: 
+- $350 CAD PER STUDENT
+
+
 ### CURRICULUM OVERVIEW
 
 #### THE AUDITION TOTEM POLE & SLATING
