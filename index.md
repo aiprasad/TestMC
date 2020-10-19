@@ -34,11 +34,9 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 
 ### FACILITATORS
 
-[Christian Potenza](https://www.imdb.com/name/nm0693066/)
-Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
+[Christian Potenza](https://www.imdb.com/name/nm0693066/) is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
 
-[Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259)
-Stephanie Yelovich is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
+[Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259) is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
 
 [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
@@ -107,7 +105,11 @@ The Four Directions of the Tone Dimaond are:
 - West: casual, laid back, easy-going, relaxed
 
 
-# [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
+# Tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
+
+[![ConnexMatch x The Infinity Forge Experience](http://img.youtube.com/vi/SejB4Ortfwg/0.jpg)](http://www.youtube.com/watch?v=SejB4Ortfwg "ConnexMatch x The Infinity Forge Experience")
+
+
 
 **sign up form here
 </BODY>
