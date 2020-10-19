@@ -2,8 +2,8 @@
 <head></head>
 
 <body>
-<img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
 
+<img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
 
 # MENU ITEM: EXPLORATIVE COMMUNICATION THERAPY
 # PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
@@ -14,9 +14,9 @@
 
 For a limited time only, ConnexMatch will be offering intimate, small group classes with none other than [Christian Potenza](https://youtu.be/WmtTnG1B2Qg) himself.
 
-Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in the Total Drama (Comedy Network) franchise.
+Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
 
-<img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
+<img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
 
 ## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS (Four Weeks, 90 minutes per week)
 
@@ -94,6 +94,16 @@ The Four Directions of the Tone Dimaond are:
 - East: formal, industrial, broadcast, announcer/host
 - West: casual, laid back, easy-going, relaxed, (right) 
 
+
+##### FACILITATORS
+
+Christian Potenza 
+Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
+
+Stephanie Yelovich
+Stephanie Yelovich is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
+
+###### [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
 # [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
 
