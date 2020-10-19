@@ -103,6 +103,8 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 Stephanie Yelovich
 Stephanie Yelovich is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftheinfinityforge%2Fvideos%2F3038585346220366%2F&show_text=0&width=267" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 ###### [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
 # [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
