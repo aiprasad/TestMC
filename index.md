@@ -5,8 +5,8 @@
 <img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
 </body>
 
-#MENU ITEM: EXPLORATIVE COMMUNICATION THERAPY
-#PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
+# MENU ITEM: EXPLORATIVE COMMUNICATION THERAPY
+# PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
 
 ## Have you ever thought about becoming a voice actor? 
 
@@ -18,7 +18,7 @@ Therefore, for a limited time, ConnexMatch will be offering intimate, small grou
 
 Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in the Total Drama (Comedy Network) franchise.
 
-Topics Included: 
+#### Topics Included: 
 - FIVE FINGERS OF SELF-DIRECTION
 - COMMUNICATION TRIANGLE
 - CHARACTER CROSS
