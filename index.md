@@ -21,7 +21,7 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 
 ## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS (Four Weeks, 90 minutes per week)
 
-|Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.|
+| Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time. |
 
 
 ### Duration: 
@@ -111,9 +111,8 @@ The Four Directions of the Tone Dimaond are:
 - North: fast-paced, high energy, friendly
 - South: slow-paced, low-energy, serious, flat/monotone
 - East: formal, industrial, broadcast, announcer/host
-- West: casual, laid back, easy-going, relaxed, (right) 
+| - West: casual, laid back, easy-going, relaxed, (right) |
 
-||
 
 # [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
 
