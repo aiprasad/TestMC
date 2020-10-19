@@ -30,9 +30,21 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 - Saturday, November 7th 2020 - December 7th 2020
 
 
+### FACILITATORS
+
+[Christian Potenza](https://www.imdb.com/name/nm0693066/)
+Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
+
+[Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259)
+Stephanie Yelovich is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
+
+[Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
+
+
 ### CURRICULUM OVERVIEW
 
-##### THE AUDITION TOTEM POLE & SLATING
+
+#### THE AUDITION TOTEM POLE & SLATING
 
 The job of an actor is to audition. But what do I do when I arrive? Casting Directors have a secret expectation when you first walk in the door.
 
@@ -41,7 +53,7 @@ Professional Casting Directors *expect* auditioning actors to follow a specific 
 The Audition Totem Pole & Slating process is very similar to the process followed by Fortune 500 companies when interviewing potential candidates. Understanding the Audition Totem Pole will make the student not only a better actor, but a better interviewer when they start their careers.
 
 
-##### THE FIVE FINGERS OF SELF-DIRECTION
+#### THE FIVE FINGERS OF SELF-DIRECTION
 
 1. What did I notice about my first attempt at reading this script? 
 2. What did I like? 
@@ -50,17 +62,17 @@ The Audition Totem Pole & Slating process is very similar to the process followe
 5. How am I going to change it?
 
 
-##### COMMUNICATION TRIANGLE
+#### COMMUNICATION TRIANGLE
 
 In any communication, there are three factors and two forces at play:
 
-##### Three Factors:
+#### Three Factors:
 
 1. You
 2. The Other Person
 3. The Shared Environment
 
-##### Two Forces: 
+#### Two Forces: 
 
 1. Guiding Force
 2. Driving Force
@@ -68,7 +80,7 @@ In any communication, there are three factors and two forces at play:
 How might we apply our understanding of The Communication Triangle as we discover our inner voice?
 
 
-##### CHARACTER CROSS
+#### CHARACTER CROSS
 
 Did you know there are four main archetypes found in our most beloved stories? They are:
 
@@ -80,47 +92,17 @@ Did you know there are four main archetypes found in our most beloved stories? T
 By understanding and applying our understanding of The Character Cross and the four archetypes, we can begin to develop our personal Character Library.
 
 
-##### TONE DIAMOND
+#### TONE DIAMOND
 
 "It's not what you say, it's how you say it." - Anon
 
-The Tone Diamond is intimately connected to The Character Cross. 
-
-Whereas The Character Cross denotes the type of Character you're playing, the Tone Diamond informs the way you speak.
+The Tone Diamond is intimately connected to The Character Cross. Whereas The Character Cross denotes the type of Character you're playing, the Tone Diamond informs the way you speak.
 
 The Four Directions of the Tone Dimaond are:
 - North: fast-paced, high energy, friendly
 - South: slow-paced, low-energy, serious, flat/monotone
 - East: formal, industrial, broadcast, announcer/host
 - West: casual, laid back, easy-going, relaxed, (right) 
-
-
-##### FACILITATORS
-
-Christian Potenza 
-Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
-
-Stephanie Yelovich
-Stephanie Yelovich is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
-
-  <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
-  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-
-  <!-- Your embedded video player code -->
-  <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
-    <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
-        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
-        <p>How to share with just friends.</p>
-        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
-      </blockquote>
-    </div>
-  </div>
-
-
-
-###### [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
 # [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
 
