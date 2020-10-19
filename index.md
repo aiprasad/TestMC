@@ -18,18 +18,14 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 
 <img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
 
+# Tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
 
-## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS (Four Weeks, 90 minutes per week)
-
- egistrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.
-
-
-### Duration: 
-- Four weeks
+[![ConnexMatch x The Infinity Forge Experience](http://img.youtube.com/vi/SejB4Ortfwg/0.jpg)](http://www.youtube.com/watch?v=SejB4Ortfwg "ConnexMatch x The Infinity Forge Experience")
 
 
-### Start Date: 
-- Saturday, November 7th 2020 - December 7th 2020
+## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
+
+Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.
 
 
 ### FACILITATORS
@@ -39,6 +35,14 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 [Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259) is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
 
 [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
+
+
+### START DATE: 
+- Saturday, November 7th 2020 - December 7th 2020
+
+
+### DURATION: 
+- Four weeks, 90-minutes per week
 
 
 ### CURRICULUM OVERVIEW
@@ -104,10 +108,6 @@ The Four Directions of the Tone Dimaond are:
 - East: formal, industrial, broadcast, announcer/host
 - West: casual, laid back, easy-going, relaxed
 
-
-# Tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
-
-[![ConnexMatch x The Infinity Forge Experience](http://img.youtube.com/vi/SejB4Ortfwg/0.jpg)](http://www.youtube.com/watch?v=SejB4Ortfwg "ConnexMatch x The Infinity Forge Experience")
 
 
 
