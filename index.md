@@ -3,14 +3,18 @@
 
 <body>
 
-# CONNEXMATCH MENU ITEM: PROVIDERS/EXPLORATIVE COMMUNICATION THERAPY
+### CONNEXMATCH MENU ITEM: PROVIDERS/EXPLORATIVE COMMUNICATION THERAPY
 
-# PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY
-## PAGE SUB-TITLE: THROUGH DIGITAL MEDIA ARTS
+### PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY
+### PAGE SUB-TITLE: THROUGH DIGITAL MEDIA ARTS
+
+ * * *
+
+# Have you ever thought about becoming a voice actor?
+
 
 <IMG SRC = "https://i.imgur.com/1KO9vqx.jpg">
 
-# Have you ever thought about becoming a voice actor?
 
 ## Have you ever dreamed about one day seeing your face in video games, cartoons, film and television?
 
