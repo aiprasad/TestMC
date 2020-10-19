@@ -18,17 +18,23 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 
 <img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
 
+
 ## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS (Four Weeks, 90 minutes per week)
 
 Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.
 
 
+| |
+
 ### Duration: 
 - Four weeks
+
+| :------------- | :----------: | -----------: |
 
 ### Start Date: 
 - Saturday, November 7th 2020 - December 7th 2020
 
+| :------------- | :----------: | -----------: |
 
 ### FACILITATORS
 
@@ -43,6 +49,7 @@ Stephanie Yelovich is an Opera Singer (Mezzo Soprano), a sonic reiki practitione
 
 ### CURRICULUM OVERVIEW
 
+| :------------- | :----------: | -----------: |
 
 #### THE AUDITION TOTEM POLE & SLATING
 
@@ -52,6 +59,7 @@ Professional Casting Directors *expect* auditioning actors to follow a specific 
 
 The Audition Totem Pole & Slating process is very similar to the process followed by Fortune 500 companies when interviewing potential candidates. Understanding the Audition Totem Pole will make the student not only a better actor, but a better interviewer when they start their careers.
 
+| :------------- | :----------: | -----------: |
 
 #### THE FIVE FINGERS OF SELF-DIRECTION
 
@@ -61,6 +69,7 @@ The Audition Totem Pole & Slating process is very similar to the process followe
 4. What am I going to change in my second attempt at reading this script?
 5. How am I going to change it?
 
+| :------------- | :----------: | -----------: |
 
 #### COMMUNICATION TRIANGLE
 
@@ -79,6 +88,7 @@ In any communication, there are three factors and two forces at play:
 
 How might we apply our understanding of The Communication Triangle as we discover our inner voice?
 
+| :------------- | :----------: | -----------: |
 
 #### CHARACTER CROSS
 
@@ -91,6 +101,7 @@ Did you know there are four main archetypes found in our most beloved stories? T
 
 By understanding and applying our understanding of The Character Cross and the four archetypes, we can begin to develop our personal Character Library.
 
+| :------------- | :----------: | -----------: |
 
 #### TONE DIAMOND
 
@@ -103,6 +114,8 @@ The Four Directions of the Tone Dimaond are:
 - South: slow-paced, low-energy, serious, flat/monotone
 - East: formal, industrial, broadcast, announcer/host
 - West: casual, laid back, easy-going, relaxed, (right) 
+
+||
 
 # [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
 
