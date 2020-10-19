@@ -3,20 +3,22 @@
 
 <body>
 
-### CONNEXMATCH MENU ITEM: PROVIDERS/EXPLORATIVE COMMUNICATION THERAPY
+### CONNEXMATCH MENU ITEM: 
+PROVIDERS/EXPLORATIVE COMMUNICATION THERAPY
 
-### PAGE TITLE: EXPLORATIVE COMMUNICATION THERAPY
-### PAGE SUB-TITLE: THROUGH DIGITAL MEDIA ARTS
+### PAGE TITLE: 
+EXPLORATIVE COMMUNICATION THERAPY
+
+### PAGE SUB-TITLE: 
+THROUGH DIGITAL MEDIA ARTS
 
  * * *
 
 # Have you ever thought about becoming a voice actor?
 
-
 <IMG SRC = "https://i.imgur.com/1KO9vqx.jpg">
 
-
-## Have you ever dreamed about one day seeing your face in video games, cartoons, film and television?
+# Have you ever dreamed about one day seeing your face in video games, cartoons, film and television?
 
 ### For a limited time only, ConnexMatch will be offering intimate, small group classes with none other than [Christian Potenza](https://youtu.be/WmtTnG1B2Qg) himself.
 
