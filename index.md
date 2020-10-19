@@ -16,14 +16,16 @@ For a limited time only, ConnexMatch will be offering intimate, small group clas
 
 Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in the Total Drama (Comedy Network) franchise.
 
-[!(https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg)]
+<img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
+
+### PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
+
+Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.
 
 #### Duration: 
-
 - Four weeks
 
 #### Start Date: 
-
 - Saturday, November 7th 2020 - December 7th 2020
 
 #### Curriculum Overview: 
@@ -36,7 +38,6 @@ Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chri
 - SLATING
 
 # [Click here](https://youtu.be/SejB4Ortfwg) to tour the ConnexMatch EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS experience.
-
 
 **sign up form here
 
