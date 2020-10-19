@@ -81,7 +81,7 @@ The Audition Totem Pole & Slating process is very similar to the process followe
 In any communication, there are three factors and two forces at play:
 
 
-#### Three Factors:
+#### The Three Corners of the Communication Triangle:
 
 1. You
 2. The Other Person
@@ -92,7 +92,7 @@ In any communication, there are three factors and two forces at play:
 1. Guiding Force
 2. Driving Force
 
-How might we apply our understanding of The Communication Triangle as we discover our inner voice?
+Q: How might we apply our understanding of The Communication Triangle as we discover our inner voice?
 
 
 #### THE CHARACTER CROSS
