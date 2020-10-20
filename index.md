@@ -69,7 +69,7 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 
 ## CURRICULUM OVERVIEW
 
-<img src = "https://i.imgur.com/jRw5JjA.jpg">
+<img src = "https://i.imgur.com/mlSiDGc.png">
 
 ### THE AUDITION TOTEM POLE & SLATING
 
