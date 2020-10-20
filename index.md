@@ -67,9 +67,9 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 
 * * * 
 
-### CURRICULUM OVERVIEW
+## CURRICULUM OVERVIEW
 
-#### THE AUDITION TOTEM POLE & SLATING
+### THE AUDITION TOTEM POLE & SLATING
 
 The job of an actor is to audition. But what do I do when I arrive? Casting Directors have a secret expectation when you first walk in the door.
 
@@ -78,7 +78,7 @@ Professional Casting Directors *expect* auditioning actors to follow a specific 
 The Audition Totem Pole & Slating process is very similar to the process followed by Fortune 500 companies when interviewing potential candidates. Understanding the Audition Totem Pole will make the student not only a better actor, but a better interviewer when they start their careers.
 
 
-#### THE FIVE FINGERS OF SELF-DIRECTION
+### THE FIVE FINGERS OF SELF-DIRECTION
 
 1. What did I notice about my first attempt at reading this script? 
 2. What did I like? 
@@ -87,18 +87,18 @@ The Audition Totem Pole & Slating process is very similar to the process followe
 5. How am I going to change it?
 
 
-#### COMMUNICATION TRIANGLE
+### COMMUNICATION TRIANGLE
 
 In any communication, there are three factors and two forces at play:
 
 
-#### The Three Corners of the Communication Triangle:
+### The Three Corners of the Communication Triangle:
 
 1. You
 2. The Other Person
 3. The Shared Environment
 
-#### Two Forces: 
+### Two Forces: 
 
 1. Guiding Force
 2. Driving Force
@@ -106,7 +106,7 @@ In any communication, there are three factors and two forces at play:
 Q: How might we apply our understanding of The Communication Triangle as we discover our inner voice?
 
 
-#### THE CHARACTER CROSS
+### THE CHARACTER CROSS
 
 Did you know there are four main archetypes found in our most beloved stories? They are:
 
@@ -118,7 +118,7 @@ Did you know there are four main archetypes found in our most beloved stories? T
 By understanding and applying our understanding of The Character Cross and the four archetypes, we can begin to develop our personal Character Library.
 
 
-#### THE TONE DIAMOND
+### THE TONE DIAMOND
 
 "It's not what you say, it's how you say it." - Anon
 
