@@ -37,15 +37,15 @@ THROUGH DIGITAL MEDIA ARTS
 Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.
 
 
-### FACILITATORS
+## FACILITATORS
 
-[Christian Potenza](https://www.imdb.com/name/nm0693066/) is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
+## [Christian Potenza](https://www.imdb.com/name/nm0693066/) is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
 
 <img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
 
-[Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259) is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
+## [Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259) is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
 
-<img src = "https://imgur.com/33fc3762-50e8-481c-a3df-734a29443d66">
+<img src = "https://i.imgur.com/nKchu08.png">
 
 [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
