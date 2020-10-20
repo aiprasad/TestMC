@@ -45,7 +45,7 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 
 ## [Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259) is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
 
-<img src = "https://i.imgur.com/nKchu08.png">
+[<img src = "https://i.imgur.com/nKchu08.png">](https://www.facebook.com/274494713084734/videos/594976971371259)
 
 [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
