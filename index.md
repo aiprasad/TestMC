@@ -26,15 +26,30 @@ THROUGH DIGITAL MEDIA ARTS
 
 <img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
 
+* * *
 
 # TAKE A TOUR OF THE STUDIO
 
 [![ConnexMatch x The Infinity Forge Experience](https://i.imgur.com/QgfM4ZV.jpg)](http://www.youtube.com/watch?v=SejB4Ortfwg "ConnexMatch x The Infinity Forge Experience")
 
 
+* * *
+
 ## PHASE ONE - EXPLORATIVE COMMUNICATION THERAPY THROUGH DIGITAL MEDIA ARTS
 
 Registrations are made on a first come, first serve basis. We apologize for any students that don't reserve their space in time.
+
+
+### START DATE: 
+- Saturday, November 7th 2020 - December 7th 2020
+
+
+### DURATION: 
+- Four weeks, 90-minutes per week
+
+
+### COST: 
+- $350 CAD PER STUDENT
 
 
 ## FACILITATORS
@@ -50,17 +65,7 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
 
-### START DATE: 
-- Saturday, November 7th 2020 - December 7th 2020
-
-
-### DURATION: 
-- Four weeks, 90-minutes per week
-
-
-### COST: 
-- $350 CAD PER STUDENT
-
+* * * 
 
 ### CURRICULUM OVERVIEW
 
@@ -125,8 +130,7 @@ The Four Directions of the Tone Dimaond are:
 - East: formal, industrial, broadcast, announcer/host
 - West: casual, laid back, easy-going, relaxed
 
-
-
+* * * 
 
 **sign up form here
 </BODY>
