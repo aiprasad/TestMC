@@ -22,8 +22,6 @@ THROUGH DIGITAL MEDIA ARTS
 
 ### For a limited time only, ConnexMatch will be offering intimate, small group classes with none other than [Christian Potenza](https://youtu.be/WmtTnG1B2Qg) himself.
 
-<img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
-
 ### Christian Potenza is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
 
 <img src = "https://m.media-amazon.com/images/M/MV5BMTYyNDA4ODgwNl5BMl5BanBnXkFtZTgwNzQ4MTYxNzE@._V1_SY1000_CR0,0,1501,1000_AL_.jpg">
@@ -43,7 +41,11 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 
 [Christian Potenza](https://www.imdb.com/name/nm0693066/) is best known for playing Jude on 6teen (Nickelodeon) and Chris McLean in Total Drama Island (Comedy Network) franchise.
 
+<img src = "https://theseeker.ca/wp-content/uploads/2017/04/CAPE-012-Christian-Potenza.jpg">
+
 [Stephanie Yelovich](https://www.facebook.com/watch/?v=594976971371259) is an Opera Singer (Mezzo Soprano), a sonic reiki practitioner and voice actor.
+
+<img src = "https://imgur.com/33fc3762-50e8-481c-a3df-734a29443d66">
 
 [Click here](https://www.facebook.com/watch/?v=3038585346220366) to watch Christian & Stephanie IN ACTION.
 
