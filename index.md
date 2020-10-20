@@ -134,6 +134,5 @@ The Four Directions of the Tone Dimaond are:
 
 * * * 
 
-**sign up form here
 </BODY>
 </html>
