@@ -80,6 +80,8 @@ The Audition Totem Pole & Slating process is very similar to the process followe
 
 ### THE FIVE FINGERS OF SELF-DIRECTION
 
+How might we improve with each recording we make? How do we step out of ourselves in order to step into ourselves?
+
 
 ### COMMUNICATION TRIANGLE
 
