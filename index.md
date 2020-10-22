@@ -69,8 +69,6 @@ Registrations are made on a first come, first serve basis. We apologize for any 
 
 ## CURRICULUM OVERVIEW
 
-<img src = "https://i.imgur.com/mlSiDGc.png">
-
 ### THE AUDITION TOTEM POLE & SLATING
 
 The job of an actor is to audition. But what do I do when I arrive? Casting Directors have a secret expectation when you first walk in the door.
