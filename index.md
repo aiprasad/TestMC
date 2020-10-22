@@ -82,28 +82,10 @@ The Audition Totem Pole & Slating process is very similar to the process followe
 
 ### THE FIVE FINGERS OF SELF-DIRECTION
 
-1. What did I notice about my first attempt at reading this script? 
-2. What did I like? 
-3. What didn’t I like? 
-4. What am I going to change in my second attempt at reading this script?
-5. How am I going to change it?
-
 
 ### COMMUNICATION TRIANGLE
 
 In any communication, there are three factors and two forces at play:
-
-
-### The Three Corners of the Communication Triangle:
-
-1. You
-2. The Other Person
-3. The Shared Environment
-
-### Two Forces: 
-
-1. Guiding Force
-2. Driving Force
 
 Q: How might we apply our understanding of The Communication Triangle as we discover our inner voice?
 
@@ -111,11 +93,6 @@ Q: How might we apply our understanding of The Communication Triangle as we disc
 ### THE CHARACTER CROSS
 
 Did you know there are four main archetypes found in our most beloved stories? They are:
-
-1. The Hero
-2. The Villain
-3. The Sidekick
-4. The Mentor
 
 By understanding and applying our understanding of The Character Cross and the four archetypes, we can begin to develop our personal Character Library.
 
@@ -125,12 +102,6 @@ By understanding and applying our understanding of The Character Cross and the f
 "It's not what you say, it's how you say it." - Anon
 
 The Tone Diamond is intimately connected to The Character Cross. Whereas The Character Cross denotes the type of Character you're playing, the Tone Diamond informs the way you speak.
-
-The Four Directions of the Tone Dimaond are:
-- North: fast-paced, high energy, friendly
-- South: slow-paced, low-energy, serious, flat/monotone
-- East: formal, industrial, broadcast, announcer/host
-- West: casual, laid back, easy-going, relaxed
 
 * * * 
 
